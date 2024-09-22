@@ -1,3 +1,4 @@
 /target
-hello.o
+*.o
 hello
+*.koopa

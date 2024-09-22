@@ -10,3 +10,4 @@ lalrpop = "0.21.0"
 
 [dependencies]
 lalrpop-util = { version = "0.21.0", features = ["lexer"] }
+koopa = "0.0.7"
